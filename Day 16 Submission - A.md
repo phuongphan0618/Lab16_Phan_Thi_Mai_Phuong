@@ -13,9 +13,8 @@
 
   Reframed as a product opportunity:
   > Một nhóm sinh viên/nghiên cứu sinh đang phải xử lý lượng lớn tài liệu dài và phân tán để làm survey, nhưng quá mất thời gian, trong khi để viết mất trung bình 20 paper chất lượng, tốn nhiều thời gian để đọc và tìm kiếm trên một paper và viết lại tổng hợp.
-Các công cụ hiện tại (search engine, PDF reader, chatbot) hỗ trợ từng phần nhưng chưa kết nối tốt giữa tìm kiếm – đọc – tổng hợp – kiểm chứng. Điều này khiến workflow bị đứt đoạn và phụ thuộc nhiều vào thao tác thủ công.
-
-Founding belief: nếu có thể tự động hóa việc kết nối các bước này trong một pipeline thống nhất, thì thời gian làm survey có thể giảm đáng kể.
+  > Các công cụ hiện tại (search engine, PDF reader, chatbot) hỗ trợ từng phần nhưng chưa kết nối tốt giữa tìm kiếm – đọc – tổng hợp – kiểm chứng. Điều này khiến workflow bị đứt đoạn và phụ thuộc nhiều vào thao tác thủ công.
+  > Founding belief: nếu có thể tự động hóa việc kết nối các bước này trong một pipeline thống nhất, thì thời gian làm survey có thể giảm đáng kể.
 
 
   ---
