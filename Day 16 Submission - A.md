@@ -87,7 +87,7 @@ If we deploy nhiều lần trong context học thuật, the following improve:
 
 
 Why competitors cannot easily replicate this:
-> Có thể cần dữ liệu về cách người dùng đọc và tổng hợp tài liệu, nhưng hiện tại chưa rõ liệu đây có phải lợi thế bền vững hay không
+> Có thể cần dữ liệu về cách người dùng đọc và tổng hợp tài liệu
 
 ---
 
